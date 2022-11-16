@@ -1,3 +1,3 @@
 # NMContentViews
 
-A description of this package.
+NM Views that have "var body: Content" instead of "var body: some View".
